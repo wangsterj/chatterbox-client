@@ -67,6 +67,20 @@ form input[type=text] {
 
 .chat .username {
     font-weight: 800;
+    font-size: 24px;
+    border: 1px solid red;
+}
+.chat .msgText {
+    font-weight: 800;
+    font-size: 14px;
+    padding: 5px;
+    text-align: right;
+}
+
+.chat .msgDate {
+    font-weight: 800;
+    font-size: 8px;
+    text-align: top, left;
 }
 
 .chat:hover {
